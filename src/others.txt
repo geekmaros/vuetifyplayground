@@ -1,0 +1,44 @@
+   <h1>Homepages</h1>
+    <!-- <p class="blue white--text">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dignissimos accusantium quas pariatur facilis, hic laudantium laborum fugiat aliquid, nobis non vitae eum autem neque dolorem animi tempora architecto perspiciatis vero.</p>
+    <p class="light-green lighten-4 red--text text--darken-4">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam ad beatae totam similique sequi natus? Consequuntur minima id expedita hic repellat labore quia illum, animi asperiores numquam. Expedita, aperiam quae.</p>
+    <h1 class="display-4">Massive Display</h1>
+    <h1 class="display-1">Smaller Display</h1>
+    <p class="headline font-weight-bold">This is a headline</p>
+    <p class="subheading">This is a headlsubheading</p>
+    <p class="caption">This is a caption </p> -->
+
+    <!-- <v-btn  color="pink white--text">Click Me</v-btn>
+    <v-btn depressed color="pink">Click Me</v-btn>
+     <v-btn flat color="pink">Click Me</v-btn>
+
+     <v-btn depressed color="pink white--text">
+       <v-icon left>home</v-icon>
+       <span>Go home</span>
+     </v-btn>
+
+      <v-btn depressed color="pink white--text">
+       <v-icon left small>mail</v-icon>
+       <span>Email Me</span>
+     </v-btn>
+
+      <v-btn depressed color="pink white--text">
+       <span>Email Me</span>
+       <v-icon right large>mail</v-icon>
+     </v-btn>
+     -->
+      <!-- <v-btn fab depressed dark color="purple">
+       <v-icon   large>favorite</v-icon>
+     </v-btn>   -->
+
+    <!-- Breakpoint -->
+    <!-- <v-btn dark color="pink hidden-md-and-down">
+      Click Me Now
+    </v-btn> -->
+     <v-btn  color="brown btn btn-one hidden-xs-only white--text">
+      SHowing in sm
+    </v-btn>
+     <v-btn dark color=" pink btn-two btn  hidden-md-and-down">
+      SHowing in md
+      <v-icon class="ico"></v-icon>
+    </v-btn>
+    <p dark class=" red--text hidden-sm-and-up">Dont show on large screen except small</p>
