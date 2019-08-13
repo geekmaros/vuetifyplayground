@@ -5,10 +5,10 @@
             transition="dialog-transition"
           
         >
-            <v-btn  slot="activator" class="success">Add New Project</v-btn>
+            <v-btn  slot="activator" class="success">Add Project</v-btn>
             <v-card>
                 <v-card-title primary-title>
-                    <h2 class="orange--text">Add New Project</h2>
+                    <h2 class="orange--text">Add Project</h2>
                 </v-card-title>
                 <v-card-text>
                     <v-form ref="form">
